@@ -1,27 +1,27 @@
 [
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 24071,
-    "open_issues_count": 24,
-    "forks_count": 1860
+    "stargazers_count": 24092,
+    "open_issues_count": 25,
+    "forks_count": 1861
   },
   {
     "full_name": "vivek9patel/vivek9patel.github.io",
-    "stargazers_count": 2536,
+    "stargazers_count": 2539,
     "open_issues_count": 1,
-    "forks_count": 373
+    "forks_count": 375
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 2434,
-    "open_issues_count": 561,
-    "forks_count": 872
+    "stargazers_count": 2437,
+    "open_issues_count": 567,
+    "forks_count": 874
   },
   {
     "full_name": "solana-developers/solana-grants",
     "stargazers_count": 13,
     "open_issues_count": 9,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "cdhiraj40/Sol-Patreon",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 7543,
-    "open_issues_count": 1,
-    "forks_count": 888
+    "stargazers_count": 8021,
+    "open_issues_count": 0,
+    "forks_count": 894
   },
   {
     "full_name": "sladyn98/Production-Engineering-Notes",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 17137,
-    "open_issues_count": 24,
-    "forks_count": 3598
+    "stargazers_count": 17179,
+    "open_issues_count": 25,
+    "forks_count": 3615
   },
   {
     "full_name": "openwisp/netdiff",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "joebew42/study-path",
-    "stargazers_count": 2197,
+    "stargazers_count": 2199,
     "open_issues_count": 17,
     "forks_count": 280
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "openwrt/openwrt",
-    "stargazers_count": 12626,
-    "open_issues_count": 1896,
-    "forks_count": 7719
+    "stargazers_count": 12640,
+    "open_issues_count": 1916,
+    "forks_count": 7730
   },
   {
     "full_name": "yashikajotwani12/yashikajotwani12",
@@ -91,14 +91,14 @@
   },
   {
     "full_name": "openwisp/docker-openwisp",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 25,
     "forks_count": 56
   },
   {
     "full_name": "openwisp/openwisp-controller",
-    "stargazers_count": 449,
-    "open_issues_count": 47,
+    "stargazers_count": 450,
+    "open_issues_count": 48,
     "forks_count": 138
   },
   {
@@ -128,7 +128,7 @@
   {
     "full_name": "openwisp/openwisp-wifi-login-pages",
     "stargazers_count": 68,
-    "open_issues_count": 17,
+    "open_issues_count": 15,
     "forks_count": 57
   },
   {
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "CppCon/CppCon2018",
-    "stargazers_count": 1348,
+    "stargazers_count": 1349,
     "open_issues_count": 7,
     "forks_count": 170
   },
   {
     "full_name": "uwcsc/winter2022-internships",
-    "stargazers_count": 383,
+    "stargazers_count": 384,
     "open_issues_count": 0,
     "forks_count": 32
   },
   {
     "full_name": "openwisp/django-loci",
     "stargazers_count": 172,
-    "open_issues_count": 4,
-    "forks_count": 34
+    "open_issues_count": 2,
+    "forks_count": 33
   },
   {
     "full_name": "suborbital/docs",
     "stargazers_count": 7,
-    "open_issues_count": 48,
+    "open_issues_count": 49,
     "forks_count": 5
   },
   {
     "full_name": "suborbital/subo",
     "stargazers_count": 58,
-    "open_issues_count": 54,
+    "open_issues_count": 55,
     "forks_count": 24
   }
 ]
