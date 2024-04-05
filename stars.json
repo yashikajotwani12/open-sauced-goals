@@ -1,51 +1,51 @@
 [
   {
     "full_name": "go101/go101",
-    "stargazers_count": 5370,
+    "stargazers_count": 5372,
     "open_issues_count": 10,
-    "forks_count": 403
+    "forks_count": 402
   },
   {
     "full_name": "godd0t/django-docker-quickstart",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 1,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "RomanHotsiy/commitgpt",
-    "stargazers_count": 1522,
+    "stargazers_count": 1525,
     "open_issues_count": 19,
     "forks_count": 82
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 27557,
-    "open_issues_count": 41,
-    "forks_count": 2929
+    "stargazers_count": 27577,
+    "open_issues_count": 42,
+    "forks_count": 2931
   },
   {
     "full_name": "rohitg00/DevOps_Books",
-    "stargazers_count": 470,
+    "stargazers_count": 476,
     "open_issues_count": 5,
-    "forks_count": 296
+    "forks_count": 298
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 147119,
+    "stargazers_count": 147787,
     "open_issues_count": 231,
-    "forks_count": 14132
+    "forks_count": 14189
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 64031,
+    "stargazers_count": 64070,
     "open_issues_count": 0,
-    "forks_count": 8848
+    "forks_count": 8851
   },
   {
     "full_name": "wisdompeak/LeetCode",
-    "stargazers_count": 5433,
+    "stargazers_count": 5436,
     "open_issues_count": 1,
-    "forks_count": 1219
+    "forks_count": 1221
   },
   {
     "full_name": "yashikajotwani12/Meme-O-Meme",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 26618,
+    "stargazers_count": 26622,
     "open_issues_count": 26,
     "forks_count": 2039
   },
   {
     "full_name": "vivek9patel/vivek9patel.github.io",
-    "stargazers_count": 3444,
+    "stargazers_count": 3448,
     "open_issues_count": 2,
-    "forks_count": 547
+    "forks_count": 546
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 3126,
-    "open_issues_count": 396,
+    "stargazers_count": 3133,
+    "open_issues_count": 401,
     "forks_count": 1178
   },
   {
     "full_name": "solana-developers/solana-grants",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 9,
     "forks_count": 6
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 14150,
+    "stargazers_count": 14166,
     "open_issues_count": 0,
-    "forks_count": 1688
+    "forks_count": 1693
   },
   {
     "full_name": "sladyn98/SRE-SWE-Notes",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 25525,
-    "open_issues_count": 11,
-    "forks_count": 6088
+    "stargazers_count": 25729,
+    "open_issues_count": 12,
+    "forks_count": 6108
   },
   {
     "full_name": "openwisp/netdiff",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "joebew42/study-path",
-    "stargazers_count": 2645,
+    "stargazers_count": 2646,
     "open_issues_count": 17,
     "forks_count": 331
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "openwrt/openwrt",
-    "stargazers_count": 18046,
-    "open_issues_count": 2629,
-    "forks_count": 9653
+    "stargazers_count": 18071,
+    "open_issues_count": 2638,
+    "forks_count": 9664
   },
   {
     "full_name": "yashikajotwani12/yashikajotwani12",
@@ -152,7 +152,7 @@
   {
     "full_name": "openwisp/openwisp-controller",
     "stargazers_count": 518,
-    "open_issues_count": 74,
+    "open_issues_count": 75,
     "forks_count": 165
   },
   {
@@ -170,13 +170,13 @@
   {
     "full_name": "openwisp/openwisp-utils",
     "stargazers_count": 74,
-    "open_issues_count": 18,
+    "open_issues_count": 16,
     "forks_count": 73
   },
   {
     "full_name": "yashikajotwani12/DataStructures_Algorithms",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   }
 ]
