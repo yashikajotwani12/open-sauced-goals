@@ -1,13 +1,13 @@
 [
   {
     "full_name": "google/adk-python",
-    "stargazers_count": 12013,
-    "open_issues_count": 682,
-    "forks_count": 1665
+    "stargazers_count": 12107,
+    "open_issues_count": 625,
+    "forks_count": 1680
   },
   {
     "full_name": "go101/go101",
-    "stargazers_count": 5922,
+    "stargazers_count": 5924,
     "open_issues_count": 10,
     "forks_count": 443
   },
@@ -25,33 +25,33 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 38322,
-    "open_issues_count": 38,
-    "forks_count": 3706
+    "stargazers_count": 38423,
+    "open_issues_count": 39,
+    "forks_count": 3722
   },
   {
     "full_name": "rohitg00/DevOps_Books",
-    "stargazers_count": 1443,
+    "stargazers_count": 1447,
     "open_issues_count": 4,
     "forks_count": 874
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 157754,
+    "stargazers_count": 157782,
     "open_issues_count": 251,
-    "forks_count": 14744
+    "forks_count": 14742
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 69546,
+    "stargazers_count": 69567,
     "open_issues_count": 2,
-    "forks_count": 9362
+    "forks_count": 9363
   },
   {
     "full_name": "wisdompeak/LeetCode",
-    "stargazers_count": 6033,
+    "stargazers_count": 6038,
     "open_issues_count": 4,
-    "forks_count": 1311
+    "forks_count": 1310
   },
   {
     "full_name": "yashikajotwani12/Meme-O-Meme",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 28295,
+    "stargazers_count": 28299,
     "open_issues_count": 24,
     "forks_count": 2126
   },
@@ -69,13 +69,13 @@
     "full_name": "vivek9patel/vivek9patel.github.io",
     "stargazers_count": 4174,
     "open_issues_count": 0,
-    "forks_count": 659
+    "forks_count": 660
   },
   {
     "full_name": "solana-foundation/anchor",
-    "stargazers_count": 4512,
-    "open_issues_count": 246,
-    "forks_count": 1639
+    "stargazers_count": 4520,
+    "open_issues_count": 251,
+    "forks_count": 1646
   },
   {
     "full_name": "solana-developers/solana-grants",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 17192,
+    "stargazers_count": 17200,
     "open_issues_count": 1,
-    "forks_count": 2219
+    "forks_count": 2221
   },
   {
     "full_name": "sladyn98/SRE-SWE-Notes",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 28263,
+    "stargazers_count": 28276,
     "open_issues_count": 10,
-    "forks_count": 6478
+    "forks_count": 6480
   },
   {
     "full_name": "openwisp/netdiff",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "joebew42/study-path",
-    "stargazers_count": 2960,
+    "stargazers_count": 2961,
     "open_issues_count": 10,
     "forks_count": 358
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "openwrt/openwrt",
-    "stargazers_count": 23304,
-    "open_issues_count": 3516,
-    "forks_count": 11445
+    "stargazers_count": 23337,
+    "open_issues_count": 3523,
+    "forks_count": 11450
   },
   {
     "full_name": "yashikajotwani12/yashikajotwani12",
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "openwisp/docker-openwisp",
-    "stargazers_count": 174,
+    "stargazers_count": 175,
     "open_issues_count": 16,
     "forks_count": 100
   },
   {
     "full_name": "openwisp/openwisp-controller",
-    "stargazers_count": 625,
-    "open_issues_count": 105,
+    "stargazers_count": 626,
+    "open_issues_count": 108,
     "forks_count": 223
   },
   {
     "full_name": "openwisp/openwisp-network-topology",
     "stargazers_count": 200,
-    "open_issues_count": 6,
-    "forks_count": 73
+    "open_issues_count": 7,
+    "forks_count": 74
   },
   {
     "full_name": "openwisp/OpenWISP-Website",
@@ -176,7 +176,7 @@
   {
     "full_name": "openwisp/openwisp-utils",
     "stargazers_count": 77,
-    "open_issues_count": 30,
+    "open_issues_count": 28,
     "forks_count": 82
   }
 ]
