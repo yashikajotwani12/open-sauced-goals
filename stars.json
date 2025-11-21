@@ -1,14 +1,14 @@
 [
   {
     "full_name": "kubevela/kubevela",
-    "stargazers_count": 7600,
-    "open_issues_count": 168,
-    "forks_count": 954
+    "stargazers_count": 7602,
+    "open_issues_count": 173,
+    "forks_count": 955
   },
   {
     "full_name": "guidewire-oss/fern-platform",
-    "stargazers_count": 447,
-    "open_issues_count": 43,
+    "stargazers_count": 446,
+    "open_issues_count": 45,
     "forks_count": 16
   },
   {
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "gofr-dev/gofr",
-    "stargazers_count": 14759,
-    "open_issues_count": 98,
-    "forks_count": 1720
+    "stargazers_count": 14890,
+    "open_issues_count": 100,
+    "forks_count": 1728
   },
   {
     "full_name": "google/adk-python",
-    "stargazers_count": 15205,
-    "open_issues_count": 414,
-    "forks_count": 2383
+    "stargazers_count": 15387,
+    "open_issues_count": 418,
+    "forks_count": 2415
   },
   {
     "full_name": "go101/go101",
-    "stargazers_count": 5977,
+    "stargazers_count": 5978,
     "open_issues_count": 10,
-    "forks_count": 444
+    "forks_count": 445
   },
   {
     "full_name": "godd0t/django-docker-quickstart",
@@ -49,32 +49,32 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 39503,
-    "open_issues_count": 22,
-    "forks_count": 3870
+    "stargazers_count": 39518,
+    "open_issues_count": 23,
+    "forks_count": 3874
   },
   {
     "full_name": "rohitg00/DevOps_Books",
-    "stargazers_count": 1513,
+    "stargazers_count": 1516,
     "open_issues_count": 4,
-    "forks_count": 915
+    "forks_count": 914
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 158795,
+    "stargazers_count": 158839,
     "open_issues_count": 250,
-    "forks_count": 14757
+    "forks_count": 14759
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 70197,
+    "stargazers_count": 70203,
     "open_issues_count": 2,
-    "forks_count": 9418
+    "forks_count": 9420
   },
   {
     "full_name": "wisdompeak/LeetCode",
-    "stargazers_count": 6112,
-    "open_issues_count": 4,
+    "stargazers_count": 6117,
+    "open_issues_count": 5,
     "forks_count": 1316
   },
   {
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 28436,
+    "stargazers_count": 28441,
     "open_issues_count": 23,
     "forks_count": 2129
   },
   {
     "full_name": "vivek9patel/vivek9patel.github.io",
-    "stargazers_count": 4239,
+    "stargazers_count": 4240,
     "open_issues_count": 1,
-    "forks_count": 678
+    "forks_count": 679
   },
   {
     "full_name": "solana-foundation/anchor",
-    "stargazers_count": 4785,
-    "open_issues_count": 292,
-    "forks_count": 1765
+    "stargazers_count": 4789,
+    "open_issues_count": 281,
+    "forks_count": 1769
   },
   {
     "full_name": "solana-developers/solana-grants",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 17435,
+    "stargazers_count": 17437,
     "open_issues_count": 1,
-    "forks_count": 2275
+    "forks_count": 2277
   },
   {
     "full_name": "sladyn98/SRE-SWE-Notes",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 29091,
+    "stargazers_count": 29104,
     "open_issues_count": 13,
-    "forks_count": 6662
+    "forks_count": 6664
   },
   {
     "full_name": "openwisp/netdiff",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "joebew42/study-path",
-    "stargazers_count": 2974,
+    "stargazers_count": 2975,
     "open_issues_count": 10,
     "forks_count": 358
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "openwrt/openwrt",
-    "stargazers_count": 24518,
-    "open_issues_count": 3676,
-    "forks_count": 11747
+    "stargazers_count": 24547,
+    "open_issues_count": 3660,
+    "forks_count": 11759
   },
   {
     "full_name": "yashikajotwani12/yashikajotwani12",
@@ -177,6 +177,6 @@
     "full_name": "openwisp/docker-openwisp",
     "stargazers_count": 183,
     "open_issues_count": 25,
-    "forks_count": 102
+    "forks_count": 103
   }
 ]
