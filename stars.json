@@ -1,38 +1,38 @@
 [
   {
     "full_name": "kubevela/kubevela",
-    "stargazers_count": 7680,
+    "stargazers_count": 7679,
     "open_issues_count": 180,
     "forks_count": 969
   },
   {
     "full_name": "guidewire-oss/fern-platform",
-    "stargazers_count": 450,
-    "open_issues_count": 56,
+    "stargazers_count": 448,
+    "open_issues_count": 57,
     "forks_count": 18
   },
   {
     "full_name": "makerever/rever",
-    "stargazers_count": 493,
+    "stargazers_count": 495,
     "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "gofr-dev/gofr",
-    "stargazers_count": 15802,
-    "open_issues_count": 136,
-    "forks_count": 1738
+    "stargazers_count": 15924,
+    "open_issues_count": 90,
+    "forks_count": 1741
   },
   {
     "full_name": "google/adk-python",
-    "stargazers_count": 17444,
-    "open_issues_count": 596,
-    "forks_count": 2834
+    "stargazers_count": 17491,
+    "open_issues_count": 589,
+    "forks_count": 2851
   },
   {
     "full_name": "go101/go101",
     "stargazers_count": 6003,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 447
   },
   {
@@ -49,31 +49,31 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 39987,
-    "open_issues_count": 13,
-    "forks_count": 3925
+    "stargazers_count": 39994,
+    "open_issues_count": 14,
+    "forks_count": 3928
   },
   {
     "full_name": "rohitg00/DevOps_Books",
-    "stargazers_count": 1650,
+    "stargazers_count": 1657,
     "open_issues_count": 5,
-    "forks_count": 987
+    "forks_count": 992
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 159725,
+    "stargazers_count": 159755,
     "open_issues_count": 250,
     "forks_count": 14765
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 70665,
+    "stargazers_count": 70677,
     "open_issues_count": 2,
-    "forks_count": 9443
+    "forks_count": 9447
   },
   {
     "full_name": "wisdompeak/LeetCode",
-    "stargazers_count": 6157,
+    "stargazers_count": 6156,
     "open_issues_count": 5,
     "forks_count": 1322
   },
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "vivek9patel/vivek9patel.github.io",
-    "stargazers_count": 4276,
+    "stargazers_count": 4275,
     "open_issues_count": 1,
     "forks_count": 679
   },
   {
     "full_name": "solana-foundation/anchor",
-    "stargazers_count": 4932,
-    "open_issues_count": 289,
-    "forks_count": 1830
+    "stargazers_count": 4936,
+    "open_issues_count": 299,
+    "forks_count": 1833
   },
   {
     "full_name": "solana-developers/solana-grants",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 17621,
+    "stargazers_count": 17628,
     "open_issues_count": 1,
-    "forks_count": 2311
+    "forks_count": 2312
   },
   {
     "full_name": "sladyn98/SRE-SWE-Notes",
@@ -128,14 +128,14 @@
   {
     "full_name": "localstack/setup-localstack",
     "stargazers_count": 36,
-    "open_issues_count": 8,
+    "open_issues_count": 5,
     "forks_count": 12
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 29295,
+    "stargazers_count": 29310,
     "open_issues_count": 14,
-    "forks_count": 6730
+    "forks_count": 6732
   },
   {
     "full_name": "openwisp/netdiff",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "joebew42/study-path",
-    "stargazers_count": 2983,
+    "stargazers_count": 2982,
     "open_issues_count": 10,
     "forks_count": 357
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "openwrt/openwrt",
-    "stargazers_count": 25411,
-    "open_issues_count": 3828,
-    "forks_count": 12001
+    "stargazers_count": 25454,
+    "open_issues_count": 3837,
+    "forks_count": 12014
   },
   {
     "full_name": "yashikajotwani12/yashikajotwani12",
@@ -176,7 +176,7 @@
   {
     "full_name": "openwisp/docker-openwisp",
     "stargazers_count": 191,
-    "open_issues_count": 28,
-    "forks_count": 109
+    "open_issues_count": 29,
+    "forks_count": 111
   }
 ]
