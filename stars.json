@@ -2,25 +2,25 @@
   {
     "full_name": "avmnu-sng/rspec-tracer",
     "stargazers_count": 174,
-    "open_issues_count": 34,
+    "open_issues_count": 20,
     "forks_count": 18
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 120861,
-    "open_issues_count": 803,
-    "forks_count": 18055
+    "stargazers_count": 121717,
+    "open_issues_count": 839,
+    "forks_count": 18191
   },
   {
     "full_name": "kubevela/kubevela",
-    "stargazers_count": 7856,
-    "open_issues_count": 227,
-    "forks_count": 1036
+    "stargazers_count": 7857,
+    "open_issues_count": 230,
+    "forks_count": 1035
   },
   {
     "full_name": "guidewire-oss/fern-platform",
     "stargazers_count": 463,
-    "open_issues_count": 70,
+    "open_issues_count": 68,
     "forks_count": 27
   },
   {
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "gofr-dev/gofr",
-    "stargazers_count": 21201,
-    "open_issues_count": 104,
-    "forks_count": 1759
+    "stargazers_count": 21169,
+    "open_issues_count": 122,
+    "forks_count": 1753
   },
   {
     "full_name": "google/adk-python",
-    "stargazers_count": 20542,
-    "open_issues_count": 660,
-    "forks_count": 3670
+    "stargazers_count": 20596,
+    "open_issues_count": 656,
+    "forks_count": 3689
   },
   {
     "full_name": "go101/go101",
-    "stargazers_count": 6046,
+    "stargazers_count": 6048,
     "open_issues_count": 12,
     "forks_count": 449
   },
@@ -55,39 +55,39 @@
   },
   {
     "full_name": "RomanHotsiy/commitgpt",
-    "stargazers_count": 1594,
+    "stargazers_count": 1593,
     "open_issues_count": 20,
     "forks_count": 92
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 40530,
+    "stargazers_count": 40540,
     "open_issues_count": 10,
-    "forks_count": 3945
+    "forks_count": 3942
   },
   {
     "full_name": "rohitg00/DevOps_Books",
-    "stargazers_count": 1944,
+    "stargazers_count": 1947,
     "open_issues_count": 5,
-    "forks_count": 1148
+    "forks_count": 1151
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 161666,
-    "open_issues_count": 256,
-    "forks_count": 14827
+    "stargazers_count": 161736,
+    "open_issues_count": 255,
+    "forks_count": 14828
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 82365,
+    "stargazers_count": 82448,
     "open_issues_count": 2,
-    "forks_count": 11366
+    "forks_count": 11375
   },
   {
     "full_name": "wisdompeak/LeetCode",
-    "stargazers_count": 6191,
+    "stargazers_count": 6193,
     "open_issues_count": 6,
-    "forks_count": 1321
+    "forks_count": 1318
   },
   {
     "full_name": "yashikajotwani12/Meme-O-Meme",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 28571,
+    "stargazers_count": 28565,
     "open_issues_count": 23,
-    "forks_count": 2111
+    "forks_count": 2109
   },
   {
     "full_name": "vivek9patel/vivek9patel.github.io",
     "stargazers_count": 4307,
     "open_issues_count": 2,
-    "forks_count": 687
+    "forks_count": 686
   },
   {
     "full_name": "otter-sec/anchor",
-    "stargazers_count": 5100,
-    "open_issues_count": 126,
-    "forks_count": 1948
+    "stargazers_count": 5103,
+    "open_issues_count": 132,
+    "forks_count": 1949
   },
   {
     "full_name": "solana-developers/solana-grants",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 18299,
+    "stargazers_count": 18311,
     "open_issues_count": 2,
-    "forks_count": 2471
+    "forks_count": 2475
   },
   {
     "full_name": "sladyn98/SRE-SWE-Notes",
@@ -140,14 +140,14 @@
   {
     "full_name": "localstack/setup-localstack",
     "stargazers_count": 39,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 12
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 29590,
+    "stargazers_count": 29596,
     "open_issues_count": 9,
-    "forks_count": 6748
+    "forks_count": 6751
   },
   {
     "full_name": "openwisp/netdiff",
@@ -165,7 +165,7 @@
     "full_name": "openwisp/openwrt-openwisp-monitoring",
     "stargazers_count": 30,
     "open_issues_count": 15,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "openwisp/openwisp-sentry-utils",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "openwrt/openwrt",
-    "stargazers_count": 27498,
-    "open_issues_count": 4132,
-    "forks_count": 12606
+    "stargazers_count": 27542,
+    "open_issues_count": 4145,
+    "forks_count": 12624
   }
 ]
