@@ -7,43 +7,43 @@
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 136205,
-    "open_issues_count": 71,
-    "forks_count": 20219
+    "stargazers_count": 136598,
+    "open_issues_count": 113,
+    "forks_count": 20271
   },
   {
     "full_name": "kubevela/kubevela",
-    "stargazers_count": 7913,
-    "open_issues_count": 273,
-    "forks_count": 1069
+    "stargazers_count": 7912,
+    "open_issues_count": 275,
+    "forks_count": 1073
   },
   {
     "full_name": "guidewire-oss/fern-platform",
-    "stargazers_count": 457,
+    "stargazers_count": 456,
     "open_issues_count": 81,
     "forks_count": 32
   },
   {
     "full_name": "makerever/rever",
-    "stargazers_count": 544,
+    "stargazers_count": 546,
     "open_issues_count": 7,
     "forks_count": 36
   },
   {
     "full_name": "gofr-dev/gofr",
-    "stargazers_count": 20857,
-    "open_issues_count": 192,
-    "forks_count": 1773
+    "stargazers_count": 20853,
+    "open_issues_count": 194,
+    "forks_count": 1778
   },
   {
     "full_name": "google/adk-python",
-    "stargazers_count": 21790,
-    "open_issues_count": 418,
-    "forks_count": 4134
+    "stargazers_count": 21871,
+    "open_issues_count": 359,
+    "forks_count": 4182
   },
   {
     "full_name": "go101/go101",
-    "stargazers_count": 6050,
+    "stargazers_count": 6051,
     "open_issues_count": 14,
     "forks_count": 446
   },
@@ -61,31 +61,31 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 40886,
-    "open_issues_count": 15,
+    "stargazers_count": 40888,
+    "open_issues_count": 16,
     "forks_count": 3954
   },
   {
     "full_name": "rohitg00/DevOps_Books",
-    "stargazers_count": 2098,
+    "stargazers_count": 2103,
     "open_issues_count": 5,
-    "forks_count": 1212
+    "forks_count": 1216
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 162440,
+    "stargazers_count": 162507,
     "open_issues_count": 256,
-    "forks_count": 14840
+    "forks_count": 14824
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 83663,
+    "stargazers_count": 83683,
     "open_issues_count": 5,
-    "forks_count": 11488
+    "forks_count": 11484
   },
   {
     "full_name": "wisdompeak/LeetCode",
-    "stargazers_count": 6197,
+    "stargazers_count": 6196,
     "open_issues_count": 6,
     "forks_count": 1316
   },
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 28640,
+    "stargazers_count": 28639,
     "open_issues_count": 23,
-    "forks_count": 2106
+    "forks_count": 2105
   },
   {
     "full_name": "vivek9patel/vivek9patel.github.io",
-    "stargazers_count": 4325,
+    "stargazers_count": 4324,
     "open_issues_count": 4,
     "forks_count": 695
   },
   {
     "full_name": "otter-sec/anchor",
-    "stargazers_count": 5148,
-    "open_issues_count": 62,
-    "forks_count": 1988
+    "stargazers_count": 5154,
+    "open_issues_count": 65,
+    "forks_count": 1994
   },
   {
     "full_name": "solana-developers/solana-grants",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 18527,
+    "stargazers_count": 18530,
     "open_issues_count": 2,
     "forks_count": 2503
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 29825,
+    "stargazers_count": 29836,
     "open_issues_count": 10,
-    "forks_count": 6760
+    "forks_count": 6765
   },
   {
     "full_name": "openwisp/netdiff",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "joebew42/study-path",
-    "stargazers_count": 3006,
+    "stargazers_count": 3007,
     "open_issues_count": 10,
-    "forks_count": 348
+    "forks_count": 351
   },
   {
     "full_name": "openwisp/openwrt-openwisp-monitoring",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "openwrt/openwrt",
-    "stargazers_count": 28732,
-    "open_issues_count": 4606,
-    "forks_count": 13122
+    "stargazers_count": 28757,
+    "open_issues_count": 4618,
+    "forks_count": 13142
   }
 ]
